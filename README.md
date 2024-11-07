@@ -1,6 +1,6 @@
 # Code-Prototype-Project-Sophia-Gluskie
 
-Project Introduction & General Information:
+**Project Introduction & General Information:**
 - Technologies used
 
 Key Features:
