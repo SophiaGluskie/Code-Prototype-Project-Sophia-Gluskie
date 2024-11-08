@@ -2,7 +2,7 @@
 
 **Project Introduction & General Information:**
 
-This Git Repository contains all the files necessary to view my code prototype project. My project was created using Processing and consists of two animated visual artworks titled ‘Shifting Sand’ (artwork 1) and ‘Infinite Current’ (artwork 2) that draw inspiration from the movements and patterns of the sand and ocean currents. 
+This Git Repository contains all the files necessary to view my code prototype project. My project was created using Processing, written in Python, and consists of two animated visual artworks titled ‘Shifting Sand’ (artwork 1) and ‘Infinite Current’ (artwork 2) that draw inspiration from the movements and patterns of the sand and ocean currents. 
 
 To create my artworks, I used a background image that I took myself on my iPhone 15, that was then overlayed my written code elements on top.
 
@@ -23,13 +23,15 @@ To create my artworks, I used a background image that I took myself on my iPhone
 To setup both the visual artworks. Please follow the instructions below:
 1. Please prepare to open the files on a suitable computer device (I created this on my 15 inch Macbook Pro)
 2. Ensure you have Processing version 4.3 downloaded onto your computer. If you do not, you can download it here: https://processing.org/download
-3. Download the folder titled 'Sand_artwork2' to view artwork 1
-4. Drag this folder (Sand_artwork2) into your Processing folder that should be located in the 'Documents' folder on your computer
-5. Open Processing
-6. Click 'File', then 'Open' and open the correct artwork 1 file (Sand_artwork2)
-7. The code should now be displayed on screen
-8. Click the 'play' / 'run' button to load up the artwork
-9. Please repeat steps 3-8 with the folder title 'Ocean_artwork_version3' to view artwork 2
+3. Open Processing, click on 'Tools' in the top left hand corner, select 'Manage Tools', navigate to 'Modes', click 'Python Mode for Processing 4' and install
+4. Navigate back to this Git Repository and click the green 'Code' button in the right hand corner and download the ZIP file
+5. Go to your download section, open the folder title 'Code-Prototype-Project-Sophia-Gluskie'
+6. Drag the folder title 'Sand_artwork2' into your 'Processing' folder that should be located in the 'Documents' folder on your computer. 
+7. Open Processing
+8. Click 'File', then 'Open' and open the correct artwork 1 file (Sand_artwork2) which is located in your 'Processing' folder
+9. The code should now be displayed on screen
+10. Click the 'play' / 'run' button to load up the artwork
+11. Please repeat steps 6-10 with the folder title 'Ocean_artwork_version3' to view artwork 2
 
 **Project Status & Areas to Improve:**
 - If I continue to develop this project further I would love to attempt my stretch goals which include adding a third artwork to the series and adding an audio element to all the artworks
