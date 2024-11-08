@@ -22,7 +22,7 @@ To create my artworks, I used a background image that I took myself on my iPhone
 
 To setup both the visual artworks. Please follow the instructions below:
 1. Please prepare to open the files on a suitable computer device (I created this on my 15 inch Macbook Pro)
-2. Ensure you have Processing version 4.3 downloaded onto your computer
+2. Ensure you have Processing version 4.3 downloaded onto your computer. If you do not, you can download it here: https://processing.org/download
 3. Download the folder titled 'Sand_artwork2' to view artwork 1
 4. Drag this folder (Sand_artwork2) into your Processing folder that should be located in the 'Documents' folder on your computer
 5. Open Processing
