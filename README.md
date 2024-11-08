@@ -28,10 +28,11 @@ To setup both the visual artworks. Please follow the instructions below:
 5. Go to your download section, open the folder title 'Code-Prototype-Project-Sophia-Gluskie'
 6. Drag the folder title 'Sand_artwork2' into your 'Processing' folder that should be located in the 'Documents' folder on your computer. 
 7. Open Processing
-8. Click 'File', then 'Open' and open the correct artwork 1 file (Sand_artwork2) which is located in your 'Processing' folder
-9. The code should now be displayed on screen
-10. Click the 'play' / 'run' button to load up the artwork
-11. Please repeat steps 6-10 with the folder title 'Ocean_artwork_version3' to view artwork 2
+8. Click 'File', then 'Open' and open the correct 'Sand_artwork2' folder, which is located in your 'Processing' folder
+9. Click on the file titled 'Sand_artwork2.pyde' and click open
+10. The code should now be displayed on screen
+11. Click the 'play' / 'run' button to load up the artwork
+12. Please repeat steps 6-11 with the folder title 'Ocean_artwork_version3' to view artwork 2
 
 **Project Status & Areas to Improve:**
 - If I continue to develop this project further I would love to attempt my stretch goals which include adding a third artwork to the series and adding an audio element to all the artworks
