@@ -8,6 +8,7 @@ To create my artworks, I used a background image that I took myself on my iPhone
 
 **Specific Notes - please take note of the following:**
 - I coded and created these artworks on my 15 inch Macbook Pro. The size of each artwork is 1500 x 850 pixels which displays the complete artworks on my screen.
+- Please ensure you correctly download all the files in the artwork folders. If the 'data' folder is not downloaded, the image will not display
 - 'Infinite Current' (artwork 2) includes an additive wave that displays differently each time the Processing file is run
 
 **Key Features:**
