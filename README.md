@@ -22,14 +22,13 @@ To create my artworks, I used a background image that I took myself on my iPhone
 To setup both the visual artworks. Please follow the instructions below:
 1. Please prepare to open the files on a suitable computer device (I created this on my 15 inch Macbook Pro)
 2. Ensure you have Processing version 4.3 downloaded onto your computer
-3. Open the project file
-4. Download the folder titled 'Sand_artwork2' to view artwork 1
-5. Drag this folder (Sand_artwork2) into your Processing folder that should be located in the 'Documents' folder on your computer
-6. Open Processing
-7. Click 'File', then 'Open' and open the correct artwork 1 file (Sand_artwork2)
-8. The code should now be displayed on screen
-9. Click the 'play' / 'run' button to load up the artwork
-10. Please repeat steps 4-9 with the folder title 'Ocean_artwork_version3' to view artwork 2
+3. Download the folder titled 'Sand_artwork2' to view artwork 1
+4. Drag this folder (Sand_artwork2) into your Processing folder that should be located in the 'Documents' folder on your computer
+5. Open Processing
+6. Click 'File', then 'Open' and open the correct artwork 1 file (Sand_artwork2)
+7. The code should now be displayed on screen
+8. Click the 'play' / 'run' button to load up the artwork
+9. Please repeat steps 3-8 with the folder title 'Ocean_artwork_version3' to view artwork 2
 
 **Project Status & Areas to Improve:**
 - If I continue to develop this project further I would love to attempt my stretch goals which include adding a third artwork to the series and adding an audio element to all the artworks
